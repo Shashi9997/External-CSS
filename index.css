@@ -1,0 +1,29 @@
+H1
+    {
+        color: blueviolet;
+        font-size: 80px;
+        font-family: cambria;
+        font-weight: 100;
+        font-style: italic;
+        letter-spacing: 4px;
+        margin-bottom: 2px;
+        text-transform: uppercase;
+    }
+p
+{
+    color: red;
+    font-family: cambria;
+    font-size: large;
+    font-weight: bolder;
+    font-style: normal;
+    letter-spacing: .4px;
+}
+
+li
+{
+    color: rgb(24, 33, 105);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    text-decoration: solid;
+    font-style:oblique;
+}
